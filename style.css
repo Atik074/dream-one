@@ -1,7 +1,7 @@
 *{
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
 .main-header{
     background-image: url("./images/./banner/banner2.png");
@@ -29,7 +29,6 @@
     color: #FFFF;
     font-size: 20px;
     padding: 16px 18px;
-    font-family: 'Work Sans', sans-serif;
     border: none;
     border-radius: 5px;
     background: #ff6348;
@@ -38,4 +37,43 @@
 .header-btn:hover{
     color: #ffa502;
     background: rgb(1, 1, 1);
+}
+/* header end */
+/* banner-section start */
+.banner-section{}
+.banner{
+    display: flex;
+    align-items:center;
+    padding: 160px 89px;
+
+}
+.banner-text{
+    margin-top: 98px;
+    margin-left: 73px;
+}
+.banner-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+    padding-right: 100px;
+}
+.banner-description{
+    color: #444343;
+    line-height: 27px;
+    margin: 16px 0px;
+    font-size: 18px;
+}
+.banner-icon-text{
+    color: #444343;
+    margin-top:10px;
+    font-size: 18px;
+    
+}
+.banner-icon{
+    color: green;
+    font-size: 23px;
+    margin-right: 15px;
+
+
 }
