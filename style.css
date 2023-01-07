@@ -97,12 +97,11 @@
 }
 /* skill end */
 .expert-section{
-    background-size: cover;
     width: 50%;
     height: 183px;
     border: 1px solid rgb(52, 25, 171); 
     border-radius: 5px;
-    margin: 0 auto;
+    margin: 45px auto;
     background-image: url(./images/use-your-time-wisely-luxury-260nw-1909754830.webp);
     background-repeat: no-repeat;
     background-size: cover;
